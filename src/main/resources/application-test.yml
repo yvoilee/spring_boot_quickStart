@@ -1,0 +1,5 @@
+file:
+    path_root: /home/fitme/hdd_disk/container_system/data/
+
+sys:
+    mix_radix: 2

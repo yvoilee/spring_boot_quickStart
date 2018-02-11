@@ -1,0 +1,5 @@
+file:
+    path_root: /data/
+
+sys:
+    mix_radix: 2
